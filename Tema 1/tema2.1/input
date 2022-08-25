@@ -1,0 +1,34 @@
+load
+store
+add 110 2 1.2 2.3
+read_all
+del 110
+update 110 3 1.2 3.0 2.1
+read 110
+get_stat 3345
+get_stat_all
+logout
+login test
+load
+add 110 2 1.2 2.3
+read_all
+del 110
+load
+add 110 2 1.2 2.3
+update 110 3 1.2 3.0 2.1
+read 110
+get_stat 3345
+get_stat_all
+read_all
+logout
+load
+store
+add 110 2 1.2 2.3
+read_all
+del 110
+update 110 3 1.2 3.0 2.1
+read 110
+get_stat 3345
+get_stat_all
+logout
+exit

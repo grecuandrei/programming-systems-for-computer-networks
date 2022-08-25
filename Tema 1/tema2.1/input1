@@ -1,0 +1,6 @@
+login test1
+load
+add 110 2 1.2 3.2
+read_all
+logout
+exit
