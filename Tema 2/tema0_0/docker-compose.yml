@@ -1,0 +1,39 @@
+version: "3.4"
+
+services:
+  server:
+    build: ./src
+    command: python3 server.py
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./src:/server
+    links:
+      - mongo
+    env_file:
+      - ./global-variables.env
+
+  mongo:
+    image: mongo
+    hostname: mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: meteoadmin
+      MONGO_INITDB_ROOT_PASSWORD: meteo
+    volumes:
+      - meteo-db:/data/db
+    ports:
+      - 27017:27017
+
+  mongo-express:
+    image: mongo-express
+    restart: unless-stopped
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: meteoadmin
+      ME_CONFIG_MONGODB_ADMINPASSWORD: meteo
+      ME_CONFIG_MONGODB_URL: mongodb://meteoadmin:meteo@mongo:27017/
+
+volumes:
+  meteo-db: {}
+
