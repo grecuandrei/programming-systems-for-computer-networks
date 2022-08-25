@@ -1,0 +1,8 @@
+Nume: Grecu Andrei-George
+Grupa: 342C1
+-- Ex 1 --
+{'status': 'ok', 'proof': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3aG8iOnsibnVtZSI6WyJHcmVjdSBBbmRyZWktR2VvcmdlIl0sImdydXBhIjpbIjM0MkMxIl19LCJkaWQiOiJ0YXNrMSJ9.NU4y_4yKA06tNs47KwsdydhisutU4a5RcQN1Uc6qab8'}
+-- Ex 2 --
+{'status': 'ok', 'proof': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3aG8iOnsibnVtZSI6IkdyZWN1IEFuZHJlaS1HZW9yZ2UifSwiZGlkIjoidGFzazIifQ.qK1EhTTBDUDDqFpiions8IDFlgxsIYsZoZLOkAB0Kv0'}
+-- Ex 3 --
+{'status': 'ok', 'proof': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3aG8iOnsibnVtZSI6IkdyZWN1IEFuZHJlaS1HZW9yZ2UifSwiZGlkIjoidGFzazMifQ.RHFuLU6ZeWlG6LqA2cGb7g09tpe31LnspSvoA3iQuPo'}

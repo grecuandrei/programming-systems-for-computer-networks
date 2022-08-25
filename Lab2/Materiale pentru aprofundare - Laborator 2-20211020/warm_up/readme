@@ -1,0 +1,5 @@
+rpcgen -a -C suma.x
+
+./suma_server
+
+./suma_client 127.0.0.1 1 2

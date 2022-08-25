@@ -1,0 +1,275 @@
+Client started with maxStorageSpace=204800 and maxTimeToKeep=20000
+REMOVED because time: http://google.com from cache with freq:1
+REMOVED because time: http://romania-durabila.gov.ro/ from cache with freq:1
+REMOVED because time: http://httpforever.com from cache with freq:1
+REMOVED because time: http://www.romania-actualitati.ro/ from cache with freq:1
+
+Size On Disk vs Max Size On Disk
+54826 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+179724 vs 204800
+ACCESSED: http://www.romania-actualitati.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+290072 vs 204800
+REMOVED because space: http://romania-durabila.gov.ro/ from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+129946 vs 204800
+ACCESSED: http://httpforever.com got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+240294 vs 204800
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+130124 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 2 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 3 times
+
+Size On Disk vs Max Size On Disk
+240472 vs 204800
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+ACCESSED: http://httpforever.com accesed for 2 times
+ACCESSED: http://www.yahoo.com accesed for 3 times
+ACCESSED: http://www.yahoo.com accesed for 4 times
+
+Size On Disk vs Max Size On Disk
+145754 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+256102 vs 204800
+REMOVED because space: http://google.com from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+184950 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+ACCESSED: http://romania-durabila.gov.ro/ accesed for 2 times
+ACCESSED: http://romania-durabila.gov.ro/ accesed for 3 times
+ACCESSED: http://httpforever.com accesed for 3 times
+
+Size On Disk vs Max Size On Disk
+295298 vs 204800
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+REMOVED because time: http://www.romania-actualitati.ro/ from cache with freq:3
+
+Size On Disk vs Max Size On Disk
+75734 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+REMOVED because time: http://httpforever.com from cache with freq:3
+
+Size On Disk vs Max Size On Disk
+195584 vs 204800
+ACCESSED: http://www.romania-actualitati.ro/ got accesed for 1 times
+ACCESSED: http://google.com accesed for 2 times
+ACCESSED: http://www.yahoo.com accesed for 5 times
+REMOVED because time: http://www.yahoo.com from cache with freq:5
+
+Size On Disk vs Max Size On Disk
+195584 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 2 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 2 times
+ACCESSED: http://google.com accesed for 3 times
+ACCESSED: http://www.yahoo.com accesed for 3 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 3 times
+
+Size On Disk vs Max Size On Disk
+200632 vs 204800
+ACCESSED: http://httpforever.com got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 4 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 5 times
+ACCESSED: http://google.com accesed for 4 times
+REMOVED because time: http://romania-durabila.gov.ro/ from cache with freq:3
+
+Size On Disk vs Max Size On Disk
+256154 vs 204800
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+ACCESSED: http://google.com accesed for 5 times
+ACCESSED: http://httpforever.com accesed for 2 times
+ACCESSED: http://google.com accesed for 6 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 6 times
+
+Size On Disk vs Max Size On Disk
+200632 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+REMOVED because time: http://google.com from cache with freq:6
+ACCESSED: http://www.yahoo.com accesed for 4 times
+REMOVED because time: http://www.romania-actualitati.ro/ from cache with freq:6
+ACCESSED: http://www.yahoo.com accesed for 5 times
+ACCESSED: http://www.yahoo.com accesed for 6 times
+
+Size On Disk vs Max Size On Disk
+75788 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+REMOVED because time: http://www.yahoo.com from cache with freq:6
+
+Size On Disk vs Max Size On Disk
+75788 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 2 times
+ACCESSED: http://httpforever.com accesed for 3 times
+ACCESSED: http://www.yahoo.com accesed for 3 times
+
+Size On Disk vs Max Size On Disk
+186136 vs 204800
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+REMOVED because time: http://httpforever.com from cache with freq:3
+
+Size On Disk vs Max Size On Disk
+186136 vs 204800
+ACCESSED: http://httpforever.com got accesed for 1 times
+ACCESSED: http://romania-durabila.gov.ro/ accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+311034 vs 204800
+REMOVED because space: http://google.com from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.romania-actualitati.ro/ got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+295298 vs 204800
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 3 times
+
+Size On Disk vs Max Size On Disk
+200625 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+310973 vs 204800
+REMOVED because space: http://google.com from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+REMOVED because time: http://romania-durabila.gov.ro/ from cache with freq:2
+ACCESSED: http://www.yahoo.com accesed for 4 times
+
+Size On Disk vs Max Size On Disk
+184950 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 5 times
+
+Size On Disk vs Max Size On Disk
+200609 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+ACCESSED: http://httpforever.com accesed for 2 times
+REMOVED because time: http://www.yahoo.com from cache with freq:5
+
+Size On Disk vs Max Size On Disk
+200609 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 4 times
+ACCESSED: http://google.com accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+310957 vs 204800
+REMOVED because space: http://www.yahoo.com from cache with freq:1
+REMOVED because space: http://romania-durabila.gov.ro/ from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+145783 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+REMOVED because time: http://httpforever.com from cache with freq:2
+
+Size On Disk vs Max Size On Disk
+251083 vs 204800
+REMOVED because space: http://www.yahoo.com from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+145605 vs 204800
+ACCESSED: http://httpforever.com got accesed for 1 times
+REMOVED because time: http://www.romania-actualitati.ro/ from cache with freq:4
+
+Size On Disk vs Max Size On Disk
+20885 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+ACCESSED: http://google.com accesed for 3 times
+ACCESSED: http://httpforever.com accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+145783 vs 204800
+ACCESSED: http://www.romania-actualitati.ro/ got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 2 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+200609 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 3 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 3 times
+
+Size On Disk vs Max Size On Disk
+310957 vs 204800
+REMOVED because space: http://romania-durabila.gov.ro/ from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+REMOVED because time: http://google.com from cache with freq:3
+ACCESSED: http://httpforever.com accesed for 3 times
+ACCESSED: http://httpforever.com accesed for 4 times
+
+Size On Disk vs Max Size On Disk
+184950 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+ACCESSED: http://www.yahoo.com accesed for 4 times
+
+Size On Disk vs Max Size On Disk
+200621 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+310969 vs 204800
+REMOVED because space: http://google.com from cache with freq:1
+REMOVED because space: http://romania-durabila.gov.ro/ from cache with freq:1
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+REMOVED because space: http://httpforever.com from cache with freq:4
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 4 times
+ACCESSED: http://www.yahoo.com accesed for 5 times
+REMOVED because time: http://www.yahoo.com from cache with freq:5
+
+Size On Disk vs Max Size On Disk
+129946 vs 204800
+ACCESSED: http://httpforever.com got accesed for 1 times
+ACCESSED: http://httpforever.com accesed for 2 times
+
+Size On Disk vs Max Size On Disk
+240294 vs 204800
+REMOVED because space: http://www.ms.ro/ from cache with freq:1
+REMOVED because space: http://www.romania-actualitati.ro/ from cache with freq:4
+ACCESSED: http://www.ms.ro/ got accesed for 1 times
+ACCESSED: http://www.romania-actualitati.ro/ accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+5226 vs 204800
+ACCESSED: http://www.yahoo.com got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+20888 vs 204800
+ACCESSED: http://google.com got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+75714 vs 204800
+ACCESSED: http://romania-durabila.gov.ro/ got accesed for 1 times
+
+Size On Disk vs Max Size On Disk
+200612 vs 204800
+ACCESSED: http://www.romania-actualitati.ro/ got accesed for 1 times
